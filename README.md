@@ -1,3 +1,1 @@
-# crud_todo_app
-
-# Simple To-Do CRUD app to begin my software engineering journey
+# Simple To-Do CRUD app as I begin my software engineering journey
